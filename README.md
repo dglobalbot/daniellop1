@@ -36,7 +36,7 @@
 <br>
 
 <h2>
-<a href="mailto:daniel@dglobal.ml">Connect with me</a><img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
+<a href="mailto:2005danielus@gmail.com">Connect with me</a><img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
 
 
