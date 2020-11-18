@@ -1,5 +1,3 @@
-
-<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Hi.gif" alt = "hi" width="40px" height="40px">
 <h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.instagram.com/2005_danielus/">Daniel Lopez</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
