@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.instagram.com/2005_danielus/">Daniel Lopez</a>. Welcome to my GitHub! 🤗</h1>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/44546966/99776273-d781a100-2b10-11eb-9956-32453e6f4da7.gif" alt="hello-gif"> <br >I'm <a href="https://www.instagram.com/2005_danielus/">Daniel Lopez</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
