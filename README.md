@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**, **anytime**!
 
-- 📫 How to reach me: <a href="mailto:2005danielus@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto:contact@2005danielus.ml">Email</a>
 
 
 
@@ -35,7 +35,7 @@
 <br>
 
 <h2>
-<a href="mailto:2005danielus@gmail.com">Connect with me</a><img src="https://user-images.githubusercontent.com/44546966/99776273-d781a100-2b10-11eb-9956-32453e6f4da7.gif" height="32px">
+<a href="mailto:contact@2005danielus.ml">Connect with me</a><img src="https://user-images.githubusercontent.com/44546966/99776273-d781a100-2b10-11eb-9956-32453e6f4da7.gif" height="32px">
 </h2>
 
 
