@@ -1,7 +1,7 @@
 <h1>👋🏻 Welcome to my profile.</h1>
 
 
-<p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain </b></p>
+<p></br> I'm Daniel, from <img src="https://www.flaticon.es/svg/static/icons/svg/323/323365.svg" width="13"/> <b>Spain.</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
