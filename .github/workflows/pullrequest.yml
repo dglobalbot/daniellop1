@@ -1,0 +1,12 @@
+name: Pull request
+
+on: [pull_request]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-message: 'Hello, in this repository you cannot send pull request.Thank you for your cooperation'' Pull request'
