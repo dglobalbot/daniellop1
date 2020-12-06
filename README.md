@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/44546966/99776361-fd0eaa80-2b10-11eb-9208-9b1cac7a8990.gif" alt="hello-gif"> <br >I'm <a href="https://www.instagram.com/2005_danielus/">Daniel Lopez</a>. Welcome to my GitHub! 🤗</h1>
+<br >I'm <a href="https://www.instagram.com/2005_danielus/">Daniel Lopez</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
