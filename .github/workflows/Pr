@@ -1,6 +1,0 @@
- - name: Close Pull
-        uses: peter-evans/close-pull@v1
-        with:
-          pull-request-number: 1
-          comment: Pull request is not accepted in this repository
-          delete-branch: true
